@@ -1,2 +1,2 @@
 # zabbixmonitor
-Zabbix Monitor 
+Zabbix Monitor Server
