@@ -1,7 +1,5 @@
 <?php
-// Author Hocnv
-// Desc: proxy for telegram
-// LastUpdate: 2019-02-10 
+ 
 date_default_timezone_set ( 'Asia/Ho_Chi_Minh' );
 header("content-type: application/x-javascript");
 error_reporting(E_ALL);
